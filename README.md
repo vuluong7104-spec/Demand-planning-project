@@ -16,7 +16,6 @@ It uses **dummy data** and transparent formulas to showcase the logic I'd apply 
 
 ### 1) Forecasting Framework
 **Final Forecast = Baseline Forecast + Uplifts**
-#### 1. Baseline Forecast
 - **Category level** (not SKU) to minimize forecast error:
 - Forecasting at a very detailed SKU level increases variability and error rates
 - Category aggregation provides a more stable demand signal, which can later be split down to SKUs if needed
