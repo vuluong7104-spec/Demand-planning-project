@@ -1,4 +1,4 @@
-# Demand-planning-project
+# Forecast-baseline-project
 This repository demonstrates how to build a *baseline demand forecast* for multiple products using **Excel only**. 
 It uses **dummy data** and transparent formulas to showcase the logic I'd apply in a demand-planning workflow
 
